@@ -1,1 +1,2 @@
-print('hello world')
+uri=input('enter your name')
+
